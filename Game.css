@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 60px 0px;
+}
+
+.question{
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+    margin-bottom: 25px;
+    max-width: 600px    ;
+}
+
+
+.displayWord {
+    display: flex;
+    text-align: center;
+    font-size: 45px;
+    padding: 10px;
+    min-width: 400px;
+    max-height: 100vh;
+    flex-direction: column;
+    background: white;
+    border-radius: 20px;
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    -webkit-box-shadow: 0px 21px 37px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 21px 37px 6px rgba(0, 0, 0, 0.2);
+}
+
+.form-container{
+
+}

@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 60px 0px;
+}
+.categories-container{
+    display: flex;
+    padding: 30px;
+    max-width: 400px;
+    min-height: 100vh;
+    flex-direction: column;
+    background: white;
+    border-radius: 20px;
+    position: relative;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 21px 37px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 21px 37px 6px rgba(0, 0, 0, 0.2);
+}
+
+.form-container{}
+
+
+
